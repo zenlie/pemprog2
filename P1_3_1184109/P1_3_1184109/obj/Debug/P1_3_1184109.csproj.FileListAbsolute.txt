@@ -1,0 +1,6 @@
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P1_3_1184109\P1_3_1184109\bin\Debug\P1_3_1184109.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P1_3_1184109\P1_3_1184109\bin\Debug\P1_3_1184109.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P1_3_1184109\P1_3_1184109\bin\Debug\P1_3_1184109.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P1_3_1184109\P1_3_1184109\obj\Debug\P1_3_1184109.csprojResolveAssemblyReference.cache
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P1_3_1184109\P1_3_1184109\obj\Debug\P1_3_1184109.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P1_3_1184109\P1_3_1184109\obj\Debug\P1_3_1184109.pdb
