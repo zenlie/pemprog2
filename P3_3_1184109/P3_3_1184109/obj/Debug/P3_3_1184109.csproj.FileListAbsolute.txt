@@ -1,0 +1,9 @@
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P3_3_1184109\P3_3_1184109\bin\Debug\P3_3_1184109.exe.config
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P3_3_1184109\P3_3_1184109\bin\Debug\P3_3_1184109.exe
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P3_3_1184109\P3_3_1184109\bin\Debug\P3_3_1184109.pdb
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P3_3_1184109\P3_3_1184109\obj\Debug\P3_3_1184109.csprojResolveAssemblyReference.cache
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P3_3_1184109\P3_3_1184109\obj\Debug\P3_3_1184109.Form1.resources
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P3_3_1184109\P3_3_1184109\obj\Debug\P3_3_1184109.Properties.Resources.resources
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P3_3_1184109\P3_3_1184109\obj\Debug\P3_3_1184109.csproj.GenerateResource.Cache
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P3_3_1184109\P3_3_1184109\obj\Debug\P3_3_1184109.exe
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P3_3_1184109\P3_3_1184109\obj\Debug\P3_3_1184109.pdb

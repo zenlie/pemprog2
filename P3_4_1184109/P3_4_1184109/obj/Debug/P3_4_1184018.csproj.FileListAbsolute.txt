@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2015\Projects\P3_4_1184018\P3_4_1184018\bin\Debug\P3_4_1184018.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\P3_4_1184018\P3_4_1184018\bin\Debug\P3_4_1184018.exe
+c:\users\asus\documents\visual studio 2015\Projects\P3_4_1184018\P3_4_1184018\bin\Debug\P3_4_1184018.pdb
+c:\users\asus\documents\visual studio 2015\Projects\P3_4_1184018\P3_4_1184018\obj\Debug\P3_4_1184018.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P3_4_1184018\P3_4_1184018\obj\Debug\P3_4_1184018.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\P3_4_1184018\P3_4_1184018\obj\Debug\P3_4_1184018.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\P3_4_1184018\P3_4_1184018\obj\Debug\P3_4_1184018.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\P3_4_1184018\P3_4_1184018\obj\Debug\P3_4_1184018.exe
+c:\users\asus\documents\visual studio 2015\Projects\P3_4_1184018\P3_4_1184018\obj\Debug\P3_4_1184018.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P3_4_1184109\P3_4_1184018\bin\Debug\P3_4_1184018.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P3_4_1184109\P3_4_1184018\obj\Debug\P3_4_1184018.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P3_4_1184109\P3_4_1184018\obj\Debug\P3_4_1184018.pdb

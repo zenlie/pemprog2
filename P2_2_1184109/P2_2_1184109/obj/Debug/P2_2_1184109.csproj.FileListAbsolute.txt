@@ -4,3 +4,9 @@ c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P2_2_1184109\P2_2_
 c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P2_2_1184109\P2_2_1184109\obj\Debug\P2_2_1184109.csprojResolveAssemblyReference.cache
 c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P2_2_1184109\P2_2_1184109\obj\Debug\P2_2_1184109.exe
 c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P2_2_1184109\P2_2_1184109\obj\Debug\P2_2_1184109.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P2_2_1184109\P2_2_1184109\bin\Debug\P2_2_1184109.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P2_2_1184109\P2_2_1184109\obj\Debug\P2_2_1184109.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P2_2_1184109\P2_2_1184109\obj\Debug\P2_2_1184109.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P2_2_1184109\P2_2_1184109\bin\Debug\P2_2_1184109.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P2_2_1184109\P2_2_1184109\bin\Debug\P2_2_1184109.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P2_2_1184109\P2_2_1184109\obj\Debug\P2_2_1184109.csprojResolveAssemblyReference.cache
