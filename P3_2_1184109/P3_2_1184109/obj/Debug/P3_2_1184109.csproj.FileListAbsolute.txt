@@ -9,3 +9,13 @@ C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P3_2_1184109\P3_2_
 C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.csproj.GenerateResource.Cache
 C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.exe
 C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\bin\Debug\P3_2_1184109.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\bin\Debug\P3_2_1184109.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\bin\Debug\P3_2_1184109.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.csprojResolveAssemblyReference.cache
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.ChildForm.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.ParentForm.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.Properties.Resources.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P3_2_1184109\P3_2_1184109\obj\Debug\P3_2_1184109.csproj.GenerateResource.Cache

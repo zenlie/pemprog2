@@ -335,7 +335,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             this.Name = "Form1";
-            this.Text = "SM ENTERTAINMENT";
+            this.Text = "Form1";
             this.gbGroup.ResumeLayout(false);
             this.gbGroup.PerformLayout();
             this.gbJadwal.ResumeLayout(false);

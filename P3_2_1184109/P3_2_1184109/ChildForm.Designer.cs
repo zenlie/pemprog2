@@ -67,6 +67,7 @@
             this.DisplayButton.TabIndex = 1;
             this.DisplayButton.Text = "&Display";
             this.DisplayButton.UseVisualStyleBackColor = true;
+            this.DisplayButton.Visible = false;
             this.DisplayButton.Click += new System.EventHandler(this.DisplayButton_Click);
             // 
             // OutputGroupBox

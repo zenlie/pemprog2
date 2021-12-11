@@ -19,7 +19,7 @@ namespace P3_1_1184109
 
         private void button1_Click(object sender, EventArgs e)
         {
-            OutputLabel.Text = "Hello, World!";
+            OutputLabel.Name = "Hello, World!";
         }
 
         private void ExitButton_Click(object sender, EventArgs e)
