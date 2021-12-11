@@ -1,0 +1,17 @@
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\bin\Debug\P5_2_1184109_TestClock.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\bin\Debug\P5_2_1184109_TestClock.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\bin\Debug\P5_2_1184109_TestClock.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\bin\Debug\P5_2_1184109.dll
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\bin\Debug\P5_2_1184109.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.csprojResolveAssemblyReference.cache
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.Form1.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.Properties.Resources.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.csproj.GenerateResource.Cache
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P5_2_1184109\P5_2_1184109_TestClock\bin\Debug\P5_2_1184109_TestClock.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\git\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\New folder (3)\P5_2_1184109\P5_2_1184109_TestClock\bin\Debug\P5_2_1184109_TestClock.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\New folder (3)\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\New folder (3)\P5_2_1184109\P5_2_1184109_TestClock\obj\Debug\P5_2_1184109_TestClock.pdb

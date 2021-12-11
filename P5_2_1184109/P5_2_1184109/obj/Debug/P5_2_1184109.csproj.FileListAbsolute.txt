@@ -1,0 +1,6 @@
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109\bin\Debug\P5_2_1184109.dll
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109\bin\Debug\P5_2_1184109.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109\obj\Debug\P5_2_1184109.DigitalClock.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109\obj\Debug\P5_2_1184109.csproj.GenerateResource.Cache
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109\obj\Debug\P5_2_1184109.dll
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P5_2_1184109\P5_2_1184109\obj\Debug\P5_2_1184109.pdb
