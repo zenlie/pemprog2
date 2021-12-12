@@ -1,0 +1,12 @@
+c:\users\jenly\onedrive\documents\visual studio 2015\Projects\P4_1_XXXXXXX\P4_1_XXXXXXX\bin\Debug\P4_1_XXXXXXX.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_XXXXXXX\P4_1_XXXXXXX\obj\Debug\P4_1_XXXXXXX.csprojResolveAssemblyReference.cache
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_XXXXXXX\P4_1_XXXXXXX\obj\Debug\P4_1_XXXXXXX.Form1.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_XXXXXXX\P4_1_XXXXXXX\obj\Debug\P4_1_XXXXXXX.Properties.Resources.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_XXXXXXX\P4_1_XXXXXXX\obj\Debug\P4_1_XXXXXXX.csproj.GenerateResource.Cache
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_XXXXXXX\P4_1_XXXXXXX\bin\Debug\P4_1_XXXXXXX.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_XXXXXXX\P4_1_XXXXXXX\bin\Debug\P4_1_XXXXXXX.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_XXXXXXX\P4_1_XXXXXXX\obj\Debug\P4_1_XXXXXXX.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_XXXXXXX\P4_1_XXXXXXX\obj\Debug\P4_1_XXXXXXX.pdb
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_1184109\P4_1_XXXXXXX\bin\Debug\P4_1_XXXXXXX.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_1184109\P4_1_XXXXXXX\obj\Debug\P4_1_XXXXXXX.exe
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\P4_1_1184109\P4_1_XXXXXXX\obj\Debug\P4_1_XXXXXXX.pdb
